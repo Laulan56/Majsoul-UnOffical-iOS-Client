@@ -1,7 +1,7 @@
 # Majsoul-UnOffical-iOS-Client
 A Majsoul unoffical iOS client
 # How to Install?
-https://github.com/Laulan56/Majsoul-UnOffical-iOS-Client/blob/master/%E9%9B%80%E9%AD%82majsoul.mobileconfig?raw=true
+https://raw.githubusercontent.com/Laulan56/Majsoul-UnOffical-iOS-Client/master/MajSoul%20Unoffical%20Client.mobileconfig
 
 # How does it work?
 iOS's mobileconfig.
