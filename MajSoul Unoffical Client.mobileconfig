@@ -849,7 +849,7 @@ Laulan56 2015-2019</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>URL</key>
-			<string>https://majsoul.union-game.com/0/</string>
+			<string>https://majsoul.union-game.com/0</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
